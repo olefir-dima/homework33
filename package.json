@@ -1,5 +1,6 @@
 {
   "main": "/src/index.js",
+  "homepage": "https://olefir-dima/homework33",
   "scripts": {
     "deploy": "gh-pages -d build",
     "watch:client": "webpack --watch",
